@@ -1,0 +1,49 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.38/schema.json",
+  "app_specific_configuration_path": "$Env:USERPROFILE/applications.json",
+  "window_hiding_behaviour": "Cloak",
+  "window_handling_behaviour": "Async",
+  "cross_monitor_move_behaviour": "Insert",
+  "default_workspace_padding": 0,
+  "default_container_padding": -1,
+  "mouse_follows_focus": false,
+  "border": true,
+  "border_width": 2,
+  "border_offset": -1,
+  "border-style": "square",
+  "widget-spacing": 0,
+  "monitors": [
+    {
+      "workspaces": [
+        {
+          "name": "\udb81\udd9f WEB",
+          "layout": "Columns"
+        },
+        {
+          "name": "\uf121  PHP",
+          "layout": "Columns"
+        },
+        {
+          "name": "03",
+          "layout": "Columns"
+        },
+        {
+          "name": "04",
+          "layout": "Columns"
+        },
+        {
+          "name": "05",
+          "layout": "Columns"
+        },
+        {
+          "name": "06",
+          "layout": "Columns"
+        },
+        {
+          "name": "\uf144 ZIC",
+          "layout": "Columns"
+        }
+      ]
+    }
+  ]
+}
