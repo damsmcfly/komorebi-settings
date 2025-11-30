@@ -1,12 +1,12 @@
-My komorebi command cheat sheet:
+My Komorebi command cheat sheet:
 
 
-# Start komorebi, komorebi bar & whkd : 
+# Start Komorebi, Komorebi Bar & WHKD : 
 ```
   komorebic start --whkd --bar
 ```
 
-# Stop komorebi, komorebi bar & whkd : 
+# Stop Komorebi, Komorebi Bar & WHKD : 
 ```
 komorebic stop
 ```
@@ -17,13 +17,13 @@ or
   Stop-Process -Name komorebi -Force -ErrorAction SilentlyContinue
 ```
 
-# Stop/start komorebi bar only :
+# Stop/start Komorebi Bar only :
 ```
   Stop-Process -Name "komorebi-bar" -Force  
   Start-Process komorebi-bar
 ```
 
-# Cheat sheet for komorebi
+# Cheat sheet for Komorebi
 ```
 Alt + i
 ```
@@ -52,7 +52,7 @@ Run with highest privileges
 ```
 New → Begin the task: At log on
 ```
-5. Actions tab (adds the following to start komorebi, komorebi bar, whkd & wait 2 seconds before setting border-style to square)
+5. Actions tab (adds the following to start Komorebi, Komorebi Bar, WHKD & wait 2 seconds before setting border-style to square)
 
 ```
 Action: Start a program
