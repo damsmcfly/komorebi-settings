@@ -1,4 +1,4 @@
-My Komorebi command cheat sheet:
+My Komorebi commands cheat sheet:
 
 
 # Start Komorebi, Komorebi Bar & WHKD : 
