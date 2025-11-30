@@ -72,7 +72,7 @@ Enable "Start the task as soon as possible after a scheduled start is missed"
 
 
 
-# Force restart Komorebi Bar when Windows 11 resumes from sleep.
+# Force restart Komorebi Bar when W11 resumes from sleep.
 1. Create a file named restart-komorebi.cmd (I created it in the Komorebi program folder) with the following content:
 
 ```
